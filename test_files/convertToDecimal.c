@@ -18,5 +18,5 @@ long long convertToDecimal(int Number, int base)
 
 	i = 1;
 
-	return decimalNumber;
+	return (decimalNumber);
 }
